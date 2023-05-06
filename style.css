@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 	font-family: 'Source Sans Pro', sans-serif; */
+
+.love-writing {
+    display: flex;
+    padding: 30px 100px;
+    align-items: center;
+    background-color: #212330;
+    color: white;
+    gap: 40px;
+}
+
+.signup-magazine-child-one span {
+    font-family: 'Open Sans', sans-serif;
+    color: #3a3a3a;
+    font-size: 14px;
+    margin-top: 18px;
+}
+
+.love-world-child-box-one {
+    height: 640px;
+}
+
+.love-world-child-box-one img {
+    width: 800px;
+    height: 600px;
+    filter: brightness(0.8);
+    object-fit: cover;
+}
+
+
+.love-world-child-box-heading h3 {
+    font-size: 28px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+    color: white;
+    text-decoration: none;
+    text-transform: unset;
+    font-weight: 700;
+}
+
+.love-world-child-box-heading span {
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+
+.line {
+    width: 80px;
+    height: 2px;
+    background-color: #FF4F69;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.love-world-child-box-description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.love-world-child-box-description p {
+    font-size: 17px;
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.love-world a {
+    color: #FF4F69;
+    font-size: 12px;
+    font-family: "poppins", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.love-world-child-box-description a {
+    margin: 0;
+    padding: 0;
+    /* margin-right: 61px; */
+    color: #FF4F69;
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 260px;
+    margin-left: 82px;
+}
+
+.love-world-child-box-heading {
+    position: relative;
+    left: 29px;
+    top: -191px;
+    width: 760px;
+}
+
+.love-writing-child-box-one h1 {
+    font-size: 61px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+}
+
+.love-wiritng-child-box-line {
+    width: 100px;
+    height: 3px;
+    background-color: #7A7A7A;
+    margin-left: -42px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+.love-writing-child-box-one span {
+    font-family: "poppins", sans-serif;
+    font-size: 18px;
+}
